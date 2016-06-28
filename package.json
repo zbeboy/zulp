@@ -9,11 +9,11 @@
   "author": "zbeboy team",
   "repository": {
     "type": "git",
-    "url": "https://github.com/weui/weui.git"
+    "url": "https://github.com/zbeboy/zulp.git"
   },
-  "homepage": "https://github.com/weui/weui",
+  "homepage": "https://github.com/zbeboy/zulp",
   "bugs": {
-    "url": "https://github.com/weui/weui/issues"
+    "url": "https://github.com/zbeboy/zulp/issues"
   },
   "scripts": {
         "start": "gulp"
