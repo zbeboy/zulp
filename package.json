@@ -1,0 +1,30 @@
+{
+  "name": "zulp",
+  "version": "0.1.0",
+  "description": "后台程序员使用.",
+  "keywords": [
+    "work",
+    "diary"
+  ],
+  "author": "zbeboy team",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weui/weui.git"
+  },
+  "homepage": "https://github.com/weui/weui",
+  "bugs": {
+    "url": "https://github.com/weui/weui/issues"
+  },
+  "scripts": {
+        "start": "gulp"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^1.5.4",
+    "stream-combiner2": "^1.1.1",
+    "yargs": "^4.7.1"
+  }
+}
