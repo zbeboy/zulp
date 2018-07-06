@@ -140,7 +140,7 @@ gulp.task('icon-watch',['icon'],browserSync.reload);
 gulp.task('ui', function () {
 	var combined = combiner.obj([
     gulp.src('ui/**/*'),
-    gulp.dest('dist')
+    gulp.dest('dist/js')
   ]);
 
   // 任何在上面的 stream 中发生的错误，都不会抛出，
